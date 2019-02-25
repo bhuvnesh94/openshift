@@ -1,3 +1,3 @@
 <?php
-echo 'welcome to adhoc'
+echo 'welcome to openshift'
 ?>
