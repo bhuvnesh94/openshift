@@ -1,3 +1,3 @@
 <?php
-echo 'welcome to openshift'
+echo 'great'
 ?>
